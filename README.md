@@ -91,6 +91,7 @@ The team dynamic was that Hamna is a beginner in python programming and Rijan is
 # Reproducibility Instructions
 
 - So, long as you have the listed packages mentioned there should be no trouble running the workflow.
+- When the notebook prompts you to submit a file - please submit the data file `data/Raw \data.csv`.s
 - Please see the `requirements.txt` file.
 
 # Merge conflicts
