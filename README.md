@@ -62,7 +62,7 @@ License: Unsure. Federal Government data.
 
 - Key findings :- The rate of percipitation has consistently ticked upward in the last 50 years. This perhaps explains the trends of flooding in that part of the world. And the stations are somewhat similar in how they are recording wet and dry conditions.
 
-- ![A facet of the means]("Images/Means.png" "An image that very clearly shows the 2021 flodding.")
+- ![A facet of the means](Images/Means.png "An image that very clearly shows the 2021 flodding.")
 
 
 - Interesting: Plotting the means and the medians in histograms, one can actually see the massive floods that took place in Pakistan around 2019/2020. This jumps out as a skyscraper in the data. 
